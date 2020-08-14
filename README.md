@@ -1,5 +1,7 @@
 # Github Release On Push Action
 
+Test push!
+
 > Stop using files for versioning. Use git tags instead!
 
 Github Action to create a Github Release on pushes to master.
